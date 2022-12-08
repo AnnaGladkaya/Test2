@@ -4,8 +4,8 @@ let a2_arr = ["Гданськ"]
 let a3_arr = ["Варшава"]
 let a4_arr = ["Познань"]
 let answer_arr = ["Варшава"]
-let n_right_answer_arr = [4,2,3,4,4]
-let n_right_answer = 4;
+let n_right_answer_arr = [2,2,1,1,2]
+// let n_right_answer = 1;
 let right_answers = 0;
 let n_answer = 4;
 
